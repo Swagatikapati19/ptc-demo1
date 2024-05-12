@@ -1,0 +1,4 @@
+/* Selects all paragraphs and sets their color to blue */
+p {
+    color: blue;
+}
