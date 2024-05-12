@@ -3,7 +3,7 @@ this is my first git repository
 <br> made by niki ..</br>
 this is my second git repository 
 <br> made by niki ..</br>
-this is my sixth git repository 
+this is my seventh git repository 
 <br> made by niki ..</br>
 
 
